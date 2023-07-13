@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.container{
+    background-color:DodgerBlue;
+    color :#1E90FF;
+    width:100w;
+    height:100w;
+}
+h1{
+    font-size:small;
+}
+button{
+    height:60px;
+    width:130px;
+    background-color:#1E90FF;
+    margin:30px;
+    font-size:small;
+    color:#1E90FF;
+    border-radius:10px;
+}
+img{
+    height:400px;
+    width:350px;
+}
+ button:hover{
+    cursor:pointer;
+    background-color:blue;
+    color:orange;
+ }
